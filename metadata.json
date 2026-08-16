@@ -1,0 +1,8 @@
+{
+  "name": "Remix KIT Academic Portal",
+  "description": "A unified AI-powered College ERP and Academic Intelligence Platform for Kalaignar Karunanidhi Institute of Technology (KIT), Coimbatore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
