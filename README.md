@@ -5,8 +5,14 @@
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
+# KIT Academic Portal
 
-View your app in AI Studio: https://ai.studio/apps/e6259801-1273-437d-b303-d17d6be018ed
+AI-powered Education Management Portal for students and teachers.
+
+## Live Application
+
+KIT Academic Portal is deployed on Vercel.
+
 
 ## Run Locally
 
